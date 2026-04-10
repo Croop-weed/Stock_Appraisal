@@ -1,4 +1,25 @@
-# Stock Prediction API Backend
+## ⚠️ Disclaimer
+
+**This project is for educational purposes only.** 
+- The stock predictions are based on historical data and ML models
+- Past performance does NOT guarantee future results
+- DO NOT use this model for actual trading without thorough backtesting
+- The creator is NOT responsible for financial losses
+- Consult a qualified financial advisor before making investment decisions## ⚠️ Disclaimer
+
+**This project is for educational purposes only.** 
+- The stock predictions are based on historical data and ML models
+- Past performance does NOT guarantee future results
+- DO NOT use this model for actual trading without thorough backtesting
+- The creator is NOT responsible for financial losses
+- Consult a qualified financial advisor before making investment decisions## ⚠️ Disclaimer
+
+**This project is for educational purposes only.** 
+- The stock predictions are based on historical data and ML models
+- Past performance does NOT guarantee future results
+- DO NOT use this model for actual trading without thorough backtesting
+- The creator is NOT responsible for financial losses
+- Consult a qualified financial advisor before making investment decisions# Stock Prediction API Backend
 
 A FastAPI-based REST API for real-time stock predictions using a trained GradientBoosting machine learning model.
 
@@ -409,3 +430,12 @@ For issues or errors, check:
 1. Console logs for training progress
 2. Model metadata at `/model/stats` endpoint
 3. Ensure all CSV files are present and readable
+
+## ⚠️ Important Disclaimer
+
+**EDUCATIONAL USE ONLY** — This project is a machine learning exercise and should NOT be used for actual trading or investment decisions.
+
+- Model predictions are based on historical patterns and may not predict future price movements
+- Stock market involves risk of loss; past performance ≠ future results
+- Always consult a financial advisor before making investment decisions
+- Creator assumes no liability for financial losses
