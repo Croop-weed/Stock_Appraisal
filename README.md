@@ -1,3 +1,11 @@
+## ⚠️ Disclaimer
+
+**This project is for educational purposes only.** 
+- The stock predictions are based on historical data and ML models
+- Past performance does NOT guarantee future results
+- DO NOT use this model for actual trading without thorough backtesting
+- The creator is NOT responsible for financial losses
+- Consult a qualified financial advisor before making investment decisions
 # Stock Predictor
 
 A powerful **REST API for real-time stock price predictions** using machine learning. Get instant buy/sell signals with confidence scores for Indian stocks across 10 different sectors.
